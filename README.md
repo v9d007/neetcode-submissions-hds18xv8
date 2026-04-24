@@ -1,12 +1,16 @@
-# NeetCode Solutions — @v9d007
+# dsa-neetcode
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-hds18xv8`
-
----
+Welcome to the **dsa-neetcode** repository! This project focuses on solving algorithmic problems commonly found in coding interviews, with a particular emphasis on using **JavaScript**. Each problem submission provides an opportunity to not only enhance coding skills but also gain a deeper understanding of algorithms and data structures.
 
 ## What is this?
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+This repository serves as a collection of solutions to NeetCode problems, which are designed to help aspiring software engineers prepare for technical interviews. The problems covered are categorized by difficulty and topic, allowing for targeted practice and learning.
+
+The content here is tailored for individuals who prefer to work in **JavaScript** and want to see each solution explained clearly. Each submission includes not just the solution code, but also detailed commentary on the thought process behind each approach, explanations of the algorithms used, and tips on how to handle similar problems in real interviews. 
+
+The project aims to create a comprehensive resource for anyone looking to strengthen their coding skills with a focus on **JavaScript** while going through the NeetCode problems.
+
+Feel free to explore the solutions and contribute your own findings!
 
 ---
 
@@ -33,9 +37,8 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
 
 **Example:**
 ```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
+Data Structures & Algorithms/two-integer-sum/submission-0.js
+Data Structures & Algorithms/binary-search/submission-0.js
 ```
 
 ---
